@@ -2,3 +2,5 @@ ls
 date
 pwd
 echo "hello"
+pwd 
+date
